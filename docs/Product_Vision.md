@@ -1,101 +1,36 @@
-# Product Backlog
+# Product Vision Document
 
-## Project Name: AI-Powered Study Buddy App
+## Product Name
+**Study Buddy App**
 
-### Epics
-
----
-
-## Epic 1: Registration and Layout
-1. **User Registration**
-   - As a student, I want to register using my university credentials so that I can access the app.
-   - Acceptance Criteria:
-     - Users can register with their university credentials.
-     - Successful registration redirects to the home page.
-
-2. **Home Page**
-   - As a student, I want to see a home page displaying university events and projects so that I stay informed.
-   - Acceptance Criteria:
-     - The home page displays a list of upcoming events and projects.
-
-3. **Burger Menu**
-   - As a student, I want a burger menu on the left side with options for My Schedule, Courses, Exam Registrations and Notes, Help.
-   - Acceptance Criteria:
-     - The burger menu is accessible from any page.
-     - Each option navigates to the respective page.
-
-4. **Schedule**
-   - As a student, I want to see a calendar on my schedule page to organize my lectures and exams.
-   - Acceptance Criteria:
-     - The calendar is empty if no lectures or exams are registered.
-
-5. **Courses**
-   - As a student, I want to see all available courses for the semester and specialty, with filters and a search bar.
-   - Acceptance Criteria:
-     - Courses are listed by default.
-     - Search and filter functionalities work as expected.
-
-6. **Course Page**
-   - As a student, I want detailed information about each course when I click on it.
-   - Acceptance Criteria:
-     - Course details, professor info, and exam regulations are displayed.
-     - A '+' sign for course registration is available.
-
-7. **Course Registration Confirmation**
-   - As a student, I want a pop-up confirmation before registering for a course.
-   - Acceptance Criteria:
-     - A confirmation pop-up appears when clicking the '+' sign.
-
-8. **Calendar Updates**
-   - As a student, I want my calendar updated with exam registration deadlines upon course registration.
-   - Acceptance Criteria:
-     - Calendar displays exam registration deadlines after course registration.
-
-9. **Homework and Assignments**
-   - As a student, I want to see homework/assignment information and deadlines on the course page.
-   - Acceptance Criteria:
-     - Homework and assignment details are displayed on the course page.
-
-10. **Progress Bar**
-    - As a student, I want a progress bar showing my total score on the course page.
-    - Acceptance Criteria:
-      - Progress bar updates with scores from homework and assignments.
-
-11. **Grades Page**
-    - As a student, I want to see my grades and detailed breakdowns on the Grades Page.
-    - Acceptance Criteria:
-      - Grades Page displays final grades and assignment scores.
-
-12. **Help Page**
-    - As a student, I want a Help page containing relevant information and contacts for courses.
-    - Acceptance Criteria:
-      - Help page displays all necessary contact information.
+## Vision Statement
+The Study Buddy App is designed to enhance the academic success of students by providing personalized study plans, where students can easily find subjects related to their study programs and register for lectures and exams. The app will offer AI-driven explanations of complex topics, as well as an interactive way to learn the course material. Based on the learned content, the AI will generate personalized questions so students can test their knowledge. By integrating with university calendars and offering intelligent self-assessment tools, this app will empower students to study smarter, not harder.
 
 ---
 
-## Epic 2: AI Integration
-1. **AI Interaction**
-   - As a student, I want to see a Siri-type circle on the CoursePage to interact with the AI.
-   - Acceptance Criteria:
-     - The AI circle is present on the CoursePage.
+### Who will use it?
+- Students
+- Undergraduate students
+- University lecturers who want to enhance student engagement
+- Educational institutions (potential partnerships)
 
-2. **Question Generation**
-   - As a student, I want to ask the AI to generate questions based on lectures.
-   - Acceptance Criteria:
-     - AI generates questions in multiple choice and open answer formats.
+### What problem does it solve?
+Students often find it difficult to manage their study schedules, locate relevant course materials, and effectively prepare for exams. Traditional study tools do not provide an interactive and adaptive learning experience, and many students struggle with finding appropriate self-assessment tools. The Study Buddy App solves these issues by providing tailored study plans based on each student's courses, a streamlined registration process for lectures and exams, and AI-generated study questions for effective knowledge testing.
 
-3. **Evaluation of Answers**
-   - As a student, I want the AI to evaluate my answers to the questions it generates.
-   - Acceptance Criteria:
-     - AI provides feedback on the answers submitted.
+### How will it solve the problem?
+- The **personalized study plans** help students stay organized and focused by aligning their study schedules with their academic calendar.
+- The **AI-powered concept explanations** provide deeper insights into difficult topics, breaking them down in a way that is easy to understand.
+- **Interactive learning** methods enhance the learning experience by encouraging students to actively engage with the material.
+- The **question generator** prepares customized test questions based on what students have learned, allowing them to self-assess their readiness for exams.
+- The **university calendar integration** ensures that students never miss a registration deadline, lecture, or exam.
 
-4. **Summaries and Highlights**
-   - As a student, I want the AI to provide summaries and highlight important points from the lectures.
-   - Acceptance Criteria:
-     - AI generates summaries and highlights key points when requested.
+### Key Features:
+- **Personalized Study Plans**: Students can create study schedules based on their registered courses and upcoming exams.
+- **AI-Powered Concept Explanations**: The AI helps students understand complex topics with explanations tailored to their learning style.
+- **Interactive Learning Tools**: Engaging students through quizzes, flashcards, and interactive lectures.
+- **AI-Generated Questions**: AI generates personalized test questions based on course content and student performance.
+- **University Calendar Integration**: Import course schedules, exam dates, and deadlines directly from the university system.
+- **Lecture and Exam Registration**: Streamlined registration for lectures and exams, allowing students to manage their academic commitments directly within the app.
 
-5. **Complex Explanations**
-   - As a student, I want the AI to explain complex concepts in different ways until I understand.
-   - Acceptance Criteria:
-     - AI provides alternative explanations for complex topics.
-
+### Why now?
+With the increasing complexity of university programs and the shift toward more self-guided and remote learning, students need intelligent tools to help manage their academic workload. The integration of AI into education can provide personalized assistance and more interactive study experiences, aligning with the modern trends in education technology.

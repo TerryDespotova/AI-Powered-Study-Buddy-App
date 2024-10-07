@@ -1,6 +1,6 @@
 # Epic: Registration and Layout
 
-## Project Name: AI-Powered Study Buddy App
+## Project Name: Study Buddy App
 
 ### Epic Description:
 This epic focuses on the app’s initial user experience, including registration, the main layout, and navigation to key areas of the app. The goal is to create a seamless and intuitive experience for students to access their courses, manage their schedule, and view relevant university events.

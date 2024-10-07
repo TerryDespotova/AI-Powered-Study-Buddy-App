@@ -1,6 +1,6 @@
 # Epic: AI Integration
 
-## Project Name: AI-Powered Study Buddy App
+## Project Name: Study Buddy App
 
 ### Epic Description:
 This epic focuses on integrating AI-driven features into the app. The goal is to provide students with intelligent tools such as AI-generated questions, summaries, explanations, and self-assessment options to enhance their learning experience.

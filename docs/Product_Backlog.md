@@ -1,6 +1,6 @@
 # Product Backlog
 
-## Project Name: AI-Powered Study Buddy App
+## Project Name: Study Buddy App
 
 ### Epics
 

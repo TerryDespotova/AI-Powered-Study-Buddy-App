@@ -1,7 +1,6 @@
 # Product Vision Document
 
-## Product Name
-**Study Buddy App**
+## Product Name: Study Buddy App
 
 ## Vision Statement
 The Study Buddy App is designed to enhance the academic success of students by providing personalized study plans, where students can easily find subjects related to their study programs and register for lectures and exams. The app will offer AI-driven explanations of complex topics, as well as an interactive way to learn the course material. Based on the learned content, the AI will generate personalized questions so students can test their knowledge. By integrating with university calendars and offering intelligent self-assessment tools, this app will empower students to study smarter, not harder.

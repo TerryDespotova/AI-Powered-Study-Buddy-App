@@ -1,6 +1,6 @@
 # Roadmap Document
 
-## Project Name: AI-Powered Study Buddy App
+## Project Name: Study Buddy App
 ## Duration: 3 Months
 ## Date:
 

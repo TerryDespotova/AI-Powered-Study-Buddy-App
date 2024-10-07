@@ -1,0 +1,54 @@
+Epic: AI Integration
+Epic Title: AI-Powered Learning Assistance
+Epic Description:
+This epic focuses on integrating AI functionality into the app to provide personalized learning assistance for students. The AI will be able to generate questions, provide summaries, highlight key points from lectures, and explain complex concepts in multiple ways. The goal is to make studying more interactive and adaptive to each student's needs.
+
+User Stories
+User Story 1: As a student, I want to see an AI assistant (like a Siri-type circle) on the CoursePage, so I can interact with it for study help.
+
+Priority: High
+Acceptance Criteria:
+A clickable Siri-type circle is available on the CoursePage.
+Clicking on the circle opens a chat interface where students can interact with the AI.
+The AI assistant is visually accessible and always present on the CoursePage.
+
+User Story 2: As a student, I want to ask the AI to generate questions based on the lecture, so I can test my knowledge effectively.
+
+Priority: High
+Acceptance Criteria:
+The student can ask the AI to generate questions based on specific lectures (e.g., "Give me questions based on the lecture 'Name of the lecture'").
+The AI has access to the lectures uploaded after each session.
+The AI generates questions in multiple forms: multiple choice, open-ended questions, etc.
+The AI evaluates the student's answers and provides feedback.
+
+User Story 3: As a student, I want the AI to provide summaries of lecture material, so I can quickly review the most important points.
+
+Priority: Medium
+Acceptance Criteria:
+The AI can generate summaries of lectures upon request.
+The summaries highlight key points and concepts covered in the lecture.
+Students can ask the AI to summarize specific sections or the entire lecture.
+
+User Story 4: As a student, I want the AI to highlight the most important parts of the lecture, so I can focus my study efforts on critical information.
+
+Priority: Medium
+Acceptance Criteria:
+The AI can highlight critical sections of a lecture that students should focus on.
+The highlighted sections are based on importance, exam relevance, or complexity.
+The AI provides a list or visual markers within the lecture content to indicate important areas.
+
+User Story 5: As a student, I want the AI to explain complex topics in different ways until I understand them, so I can grasp difficult material.
+
+Priority: High
+Acceptance Criteria:
+The AI provides tailored explanations for complex topics.
+The student can ask the AI to re-explain the topic in simpler terms or using different methods (e.g., analogies, diagrams, step-by-step breakdowns).
+The AI continues to provide different explanations until the student indicates understanding.
+
+User Story 6: As a student, I want the AI to track the questions I’ve answered and identify areas of improvement, so I can focus on my weak points.
+
+Priority: Medium
+Acceptance Criteria:
+The AI tracks student performance based on the questions answered.
+The AI identifies areas where the student is struggling and suggests focused study material or additional questions.
+The student receives a progress report highlighting strengths and weaknesses.

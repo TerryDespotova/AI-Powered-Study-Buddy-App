@@ -1,0 +1,90 @@
+Epic: Registration and Layout
+Epic Title: Registration and Layout for University Students
+Epic Description:
+This epic focuses on creating the user interface and registration flow for university students. The main goals are to enable students to register with their university credentials, access their schedules, explore courses, and manage exam registrations, assignments, and grades. Additionally, the layout will include easy navigation with a burger menu and a user-friendly home page to keep students informed about university events and projects.
+
+User Stories
+User Story 1: As a student, I want to register using my university credentials, so I can access the app and my personalized information.
+
+Priority: High
+Acceptance Criteria:
+The student can enter their university credentials.
+The system verifies the credentials and grants access.
+Upon successful registration, the student is redirected to the home page.
+
+User Story 2: As a student, I want to see a home page with university events and projects, so I can stay updated on important happenings.
+
+Priority: Medium
+Acceptance Criteria:
+The home page shows a feed of upcoming events and projects.
+The student can scroll through the list and click on events to see details.
+Events related to the student’s registered courses are highlighted.
+
+User Story 3: As a student, I want a burger menu on the left side to easily navigate the app.
+
+Priority: Medium
+Acceptance Criteria:
+The burger menu is available on the left side of the app.
+The menu includes the following options: 1. My Schedule, 2. Courses, 3. Exam Registrations and Notes, 4. Help.
+The student can click on any of the options to navigate to the respective page.
+
+User Story 4: As a student, I want to view my schedule in a calendar format so I can keep track of my lectures and exams.
+
+Priority: High
+Acceptance Criteria:
+A calendar is displayed in the “My Schedule” section.
+The calendar is empty if no lectures or exams are registered.
+Once the student registers for a course, lectures and exam dates are automatically added to the calendar.
+
+User Story 5: As a student, I want to view all available courses for the semester and my specialty by default, so I can quickly find relevant courses.
+
+Priority: High
+Acceptance Criteria:
+The “Courses” page shows a list of all available courses for the current semester and the student’s specialty.
+The student can see course names, codes, and professors.
+A search bar is provided to find courses from other specialties or semesters.
+
+User Story 6: As a student, I want to filter and search for courses outside my specialty and semester, so I can explore additional learning opportunities.
+
+Priority: Medium
+Acceptance Criteria:
+The search bar allows filtering by semester, specialty, and course name.
+The results display courses outside the student's default list.
+Students can select and register for courses directly from the search results.
+
+User Story 7: As a student, I want to register for a course by clicking on a "+" sign, so I can add it to my schedule and calendar.
+
+Priority: High
+Acceptance Criteria:
+Each course page displays a "+" sign for registration.
+Clicking the "+" prompts a pop-up confirmation: “Are you sure you want to register for this course?”
+Upon confirmation, the course is added to the student’s schedule and calendar, with exam registration deadlines included.
+
+User Story 8: As a student, I want to view course details (professor, exam regulations, grading structure, etc.) on the CoursePage, so I have all relevant information in one place.
+
+Priority: Medium
+Acceptance Criteria:
+The CoursePage displays details such as the professor’s name, contact info, exam regulations, grading structure, and important dates.
+Assignments and homework details are also displayed during the semester.
+
+User Story 9: As a student, I want a progress bar on the CoursePage that shows my total score, so I can track my performance throughout the semester.
+
+Priority: Medium
+Acceptance Criteria:
+The progress bar shows the student’s cumulative score based on homework, assignments, and exams.
+Clicking on the progress bar redirects the student to the Grades Page.
+
+User Story 10: As a student, I want a Grades Page where I can see all my registered courses and grades for assignments, homework, and exams.
+
+Priority: Medium
+Acceptance Criteria:
+The Grades Page lists all registered courses.
+Expanding a course shows scores for each homework/assignment and the final exam grade.
+Courses without homework/assignments only display the exam grade.
+
+User Story 11: As a student, I want to access a Help page with contacts and relevant info, so I can find assistance when needed.
+
+Priority: Low
+Acceptance Criteria:
+The Help page contains contact information for professors, administration, and IT support.
+The Help page also includes FAQ sections about course registration, exam rules, and study tools.
